@@ -1,0 +1,2 @@
+#!/bin/bash
+preg -c -i "bin" /etc/passwd
